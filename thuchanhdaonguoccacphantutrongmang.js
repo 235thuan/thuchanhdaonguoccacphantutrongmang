@@ -8,7 +8,7 @@ function user_input() {
     document.getElementById("foruser").value="";
 }
 function user_result() {
-    document.getElementById("result").innerHTML= "Mang dao nguoc la " + "Array_Reverse " + "= " + "[" + A + "]";
+    document.getElementById("result").innerHTML= "Mang cua ban la " + "Array " + "= " + "[" + A + "]";
 }
 function reverse_array() {
     let last = B.length - 1;
